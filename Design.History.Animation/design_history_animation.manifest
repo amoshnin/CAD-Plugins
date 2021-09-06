@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Artem Moshnin",
+	"description":	{
+		"":	"Turn your Fusion360 design history timeline into an animation"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
