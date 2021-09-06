@@ -1,5 +1,7 @@
 # List of my CAD (Fusion 360) Plugins
 
+🎈 List of all my open source CAD (Fusion 360) plugins I developed/maintained/improved and have been using for personal work automation of using Fusion 360 CAD Software. Plugins may be written in C++ or Python.
+
 ## Projects index
 
 <!--ts-->
